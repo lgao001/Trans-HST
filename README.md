@@ -9,4 +9,8 @@ Raw Result: [Baidu]
 ## Usage
 
 ### Installation  
-Create and activate a conda environment, we've tested on this env: You can follow the env setting of [TransT](https://github.com/chenxin-dlut/TransT).  
+Create and activate a conda environment, we've tested on this env: You can follow the env setting of [TransT](https://github.com/chenxin-dlut/TransT).   
+
+### Data Preparation  
+* Hyperspectral training and test datasets:  
+  * [HOTC2020](https://www.hsitracking.com/hot2020/)

@@ -5,3 +5,8 @@ Raw Result: [Baidu]
 
 
 ![Trans-HST](pipline.png)
+
+## Usage
+
+### Installation  
+Create and activate a conda environment, we've tested on this env: You can follow the env setting of [TransT](https://github.com/chenxin-dlut/TransT).  

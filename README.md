@@ -19,7 +19,9 @@ Create and activate a conda environment, we've tested on this env: You can follo
 Following [TransT](https://github.com/chenxin-dlut/TransT)
 
 ### Testing  
-
+```
+python pysot_toolkit/test.py
+```
 
 ## Citation  
 ```
